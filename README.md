@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Benuttym
-- 👀 I’m interested in becoming a creative designer in the future
+- 👀 I’m interested in becoming a creative designer in the future.
 - 🌱 I’m currently learning how to code with SheCodes and I'm at the beginning of my journey!
 
 <!---
